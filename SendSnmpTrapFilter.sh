@@ -172,7 +172,7 @@ fMainTF()
 	echo "$sTest2"
 	fSendTrap "$sTestReturn2" "From: device name test2\nOid: [.1.3.6.1.2.1.17.0.2]\nDescription: test" "[TRAP] device name test2"
 	
-	exit 1
+	exit 0
 }
 
 # We check if it is a test

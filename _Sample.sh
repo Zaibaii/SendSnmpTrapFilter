@@ -28,4 +28,4 @@ fi
 # To testing the concrete examples, execute the following command in a terminal
 #./_Sample.sh "ID test" "device with a space" "Name of the snmp trap" "[Oid test]" "Status test" "Reason test or the description" "The description"
 
-exit 1
+exit 0
