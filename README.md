@@ -1,2 +1,3 @@
 # SendSnmpTrapFilter
-This Shell module allows to filter the sending email of snmp traps to avoid flooding. It works with snmptt among others.
+A Shell module to throttle SNMP trap email notifications. Prevents mailbox flooding by limiting repetitive alerts based on a configurable threshold and timeframe.  
+It works with snmptt among others.
